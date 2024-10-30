@@ -1,0 +1,16 @@
+{
+  "no_order": "ORDER-1-20241030-00001",
+  "id_customer": 1,
+  "address": "Test Address",
+  "payment_type": "Transfer",
+  "items": [
+    {
+      "id_product": 1,
+      "name": "Lorem Ipsum",
+      "price": 5000,
+      "qty": 2
+    }
+  ],
+  "total": 10000,
+  "status": "Dikirim ke customer"
+}
